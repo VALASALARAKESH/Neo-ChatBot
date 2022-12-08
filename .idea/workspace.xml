@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="85420ca9-828a-4c91-adf0-9407fe4c48c3" name="Changes" comment="Initial commit">
+      <change beforePath="$PROJECT_DIR$/chatbotmodel.h5" beforeDir="false" afterPath="$PROJECT_DIR$/chatbotmodel.h5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/classes.pkl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/intents.json" beforeDir="false" afterPath="$PROJECT_DIR$/intents.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/CART.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Products.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/ROG ZEPHYRUS DUO 16 (2022).html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/assets/bootstrap/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/assets/css/styles.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/assets/fonts/s/lato/v23/S6u9w4BMUTPHh6UVSwaPGR_p.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/assets/fonts/s/lato/v23/S6u9w4BMUTPHh6UVSwiPGQ.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/assets/fonts/s/lato/v23/S6u9w4BMUTPHh7USSwaPGR_p.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/assets/fonts/s/lato/v23/S6u9w4BMUTPHh7USSwiPGQ.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/assets/fonts/s/lato/v23/S6uyw4BMUTPHjx4wXg.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/assets/fonts/s/lato/v23/S6uyw4BMUTPHjxAwXjeu.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/assets/img/business-man-depressed-stressed-watching-decrease-graph-stock-financial-trade-market-diagram_1150-39760.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/assets/img/express-courier-scooter-shipping-order_74855-6447.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/assets/img/template.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/assets/js/script.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/cancel.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/success.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/CART.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/Maddy's Store.bsdesign" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/Products.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/ROG ZEPHYRUS DUO 16 (2022).html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/cancel.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/success.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/words.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/words.pkl" afterDir="false" />
+    </list>
+    <list id="02dd2455-96f6-4817-8185-e7f51f595dde" name="Changes by Devarshini" comment="">
+      <change beforePath="$PROJECT_DIR$/intents.json" beforeDir="false" afterPath="$PROJECT_DIR$/intents.json" afterDir="false" />
+    </list>
+    <list id="e70ec6d9-49c6-430b-a0ea-124e3a1c9fe5" name="Changes by Moulana" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package.json" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/templates/base.html" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="LineStatusTrackerManager">
+    <file path="$PROJECT_DIR$/intents.json">
+      <ranges>
+        <range start1="4" end1="5" start2="4" end2="5" changelist="02dd2455-96f6-4817-8185-e7f51f595dde" />
+        <range start1="10" end1="11" start2="10" end2="11" changelist="02dd2455-96f6-4817-8185-e7f51f595dde" />
+        <range start1="22" end1="23" start2="22" end2="23" changelist="85420ca9-828a-4c91-adf0-9407fe4c48c3" />
+        <range start1="28" end1="29" start2="28" end2="29" changelist="85420ca9-828a-4c91-adf0-9407fe4c48c3" />
+        <range start1="123" end1="124" start2="123" end2="135" changelist="85420ca9-828a-4c91-adf0-9407fe4c48c3" />
+        <range start1="125" end1="125" start2="136" end2="203" changelist="85420ca9-828a-4c91-adf0-9407fe4c48c3" />
+        <range start1="126" end1="127" start2="204" end2="205" changelist="85420ca9-828a-4c91-adf0-9407fe4c48c3" />
+      </ranges>
+    </file>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2I5SwxBacRCvXbCbmYrxCjsSLyB" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "last_opened_file_path": "E:/Neo ChatBot",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mongo"
+    ]
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Neo ChatBot" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Neo ChatBot" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.app" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="85420ca9-828a-4c91-adf0-9407fe4c48c3" name="Changes" comment="" />
+      <created>1669470193704</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1669470193704</updated>
+      <workItem from="1669470195277" duration="13740000" />
+      <workItem from="1669487210439" duration="1035000" />
+      <workItem from="1669516683155" duration="4000" />
+      <workItem from="1669516707276" duration="25055000" />
+      <workItem from="1669557574746" duration="25000" />
+      <workItem from="1669557612041" duration="9121000" />
+      <workItem from="1669569373094" duration="2298000" />
+      <workItem from="1669571691957" duration="89000" />
+      <workItem from="1669571794495" duration="181000" />
+      <workItem from="1669571989223" duration="6362000" />
+      <workItem from="1669604246998" duration="1825000" />
+      <workItem from="1669606103245" duration="914000" />
+      <workItem from="1669615270233" duration="903000" />
+      <workItem from="1669815137303" duration="2661000" />
+      <workItem from="1669859153536" duration="3046000" />
+      <workItem from="1669869674994" duration="19000" />
+      <workItem from="1669869816415" duration="5540000" />
+      <workItem from="1669896621910" duration="44000" />
+      <workItem from="1669896728250" duration="27000" />
+      <workItem from="1670124720512" duration="4222000" />
+      <workItem from="1670160555831" duration="9966000" />
+      <workItem from="1670427498515" duration="7284000" />
+      <workItem from="1670469771498" duration="643000" />
+      <workItem from="1670470482886" duration="1774000" />
+    </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <created>1669866290056</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1669866290056</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ID_ORDER">
+      <list>
+        <option value="Default.Root" />
+        <option value="Default.Author" />
+        <option value="Default.Date" />
+        <option value="Default.Subject" />
+        <option value="Space.CommitStatus" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Neo_ChatBot$chatbot.coverage" NAME="chatbot Coverage Results" MODIFIED="1669605798691" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Neo_ChatBot$app.coverage" NAME="app Coverage Results" MODIFIED="1670470975196" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Neo_ChatBot$ChatBotGUI.coverage" NAME="ChatBotGUI Coverage Results" MODIFIED="1669560067190" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Neo_ChatBot$main.coverage" NAME="main Coverage Results" MODIFIED="1669480470927" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Neo_ChatBot$training.coverage" NAME="training Coverage Results" MODIFIED="1670470892360" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
